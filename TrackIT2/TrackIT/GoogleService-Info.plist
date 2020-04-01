@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1041612323849-02nd6mvrp3q6qji398g6lvqoral4jq82.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1041612323849-02nd6mvrp3q6qji398g6lvqoral4jq82</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBLEg-Qw-D0kl7CJO3AESD-C-u3bPDmni8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1041612323849</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.2020.FirebaseTest</string>
+	<key>PROJECT_ID</key>
+	<string>sick-9b5ac</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sick-9b5ac.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1041612323849:ios:801113e4de4a1764370cd8</string>
+	<key>DATABASE_URL</key>
+	<string>https://sick-9b5ac.firebaseio.com</string>
+</dict>
+</plist>
